@@ -1,6 +1,5 @@
 package br.com.saga_orquestrado.inventory.core.dto;
 
-import br.com.saga_orquestrado.order.core.document.OrderProducts;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
